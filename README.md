@@ -12,5 +12,5 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 ## **Why Use Markdown?**
 - **Easy to Learn:** Intuitive syntax
 - **Readable:** Clean and simple
-- **Widely Supported:** Works on GitHub, VS Code, and more
+- **Widely Supported:** Works on GitHub, VS Code, Discord, Notion, and more
 - **Portable:** Plain text, compatible with many platforms
